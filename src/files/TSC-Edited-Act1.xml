@@ -233,7 +233,7 @@
       <body>
          <div type="prologue" n="1">
             <pb n="TSC-000"
-               facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4406/rec/4"/>
+               facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/273"/>
             <sp>
                <l>To tell ye, (gentlemen,) we have a play;</l>
                <l>A new one too, and that 'tis launched<note resp="#mim" type="annotation">
@@ -270,7 +270,7 @@
          </div>
          <div xml:id="act1" type="act" n="1">
                 <pb n="TSC-001"
-                    facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4381/rec/4"/>
+                    facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/248"/>
                 <head>
                     <title>THE SPANISH CURATE</title>
                 </head>
@@ -461,7 +461,7 @@
                             <lg>
                                 <l rend="center">Stood I but now possessed</l>
                                 <pb n="TSC-002"
-                                    facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4382/rec/4"/>
+                                    facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/249"/>
                                 <l>Of what my future hope presages<note resp="#mim" type="gloss">
                                     <term>presages</term>: warnings or omens of future events</note> to me,</l> 
                                 <l>I then would make it clear thou ha'dst a patron<note resp="#mim" type="gloss">
@@ -744,7 +744,7 @@
                             </lg>
                         </sp>
                         <pb rend="TSC-003"
-                            facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4383/rec/4"/>
+                            facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/250"/>
                         <sp who="#Jam">
                             <speaker>Jamie.</speaker>
                             <lg>
@@ -1032,7 +1032,7 @@
                             </lg>
                         </sp>
                         <pb n="TSC-004"
-                            facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4384/rec/4"/>
+                            facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/251"/>
                         <note type="mansNote" resp="#formerOwner" subtype="beReady">
                             <supplied>Manuscript note:</supplied> Octavio &amp; Jacinta be ready.</note>
                         <sp who="#Ang">
@@ -1333,7 +1333,7 @@
                             </lg>
                         </sp>
                         <pb n="TSC-005"
-                            facs="https://digital.libraries.psu.edu/digital/collection/emblem/id/4385/rec/4"/>
+                            facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/252"/>
                         <sp who="#Hen">
                             <speaker>Henrique.</speaker>
                             <lg>
