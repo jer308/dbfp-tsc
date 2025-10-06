@@ -343,7 +343,7 @@
                 <l>This &#383;hewes nobly:</l>
                 <fw type="catch">I</fw>
                 <pb n="T&#383;C-022"
-                  facs="https://digital.libraries.p&#383;u.edu/digital/collection/emblem/id/4402/rec/4"/>
+                  facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/269"/>
                 <fw type="pageNum">46</fw>
                 <l>I mu&#383;t confe&#383;&#383;e it: I am taken with it</l>
                 <l>For you had kneeld, and whind and &#383;hew'd a ba&#383;e</l>
@@ -638,7 +638,7 @@
             </sp>
             <fw type="catch" rend="italic">Bar.</fw>
             <pb n="T&#383;C-023"
-              facs="https://digital.libraries.p&#383;u.edu/digital/collection/emblem/id/4403/rec/4"/>
+              facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/270"/>
             <fw type="pageNum">47</fw>
             <sp>
               <speaker>Bar.</speaker>
@@ -990,7 +990,7 @@
             </sp>
             <fw type="catch" rend="italic">Lea.</fw>
             <pb n="T&#383;C-024"
-              facs="https://digital.libraries.p&#383;u.edu/digital/collection/emblem/id/4404/rec/4"/>
+              facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/271"/>
             <fw type="pageNum">48</fw>
             <sp>
               <speaker>Lea.</speaker>
@@ -1310,7 +1310,7 @@
             </sp>
             <fw type="catch" rend="italic">Iam.</fw>
             <pb n="T&#383;C-025"
-              facs="https://digital.libraries.p&#383;u.edu/digital/collection/emblem/id/4405/rec/4"/>
+              facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/272"/>
             <fw type="sig">H</fw>
             <fw type="pageNum">49</fw>
             <sp>
@@ -1588,7 +1588,7 @@
                 <l>Calls it not death: yet that her puni&#383;hment</l>
                 <fw type="catch" >May</fw>
                 <pb n="T&#383;C-026"
-                  facs="https://digital.libraries.p&#383;u.edu/digital/collection/emblem/id/4406/rec/4"/>
+                  facs="https://digital.libraries.psu.edu/digital/collection/manuscripts/id/273"/>
                 <fw type="pageNum">50</fw>
                 <l>May deter others from &#383;uch bad attempts,</l>
                 <l>The Dowry she brought with her &#383;hall be emploi'd</l>
@@ -1619,7 +1619,7 @@
             <stage type="exit" place="right">Exeunt.</stage>
           </div>
       </div>
-      <div xml:id="prologue" type="front" n="1" rend="italic"><!-- help with prologue formatting and who is speaking -->
+      <div xml:id="prologue" type="front" n="1" rend="italic">
           <l><hi rend="roman">T</hi>O tell ye (Gentlemen,) we have a Play,</l>
           <l>A new one too, and that 'tis launch'd to day,</l>
           <l>The Name ye know, that's nothing to my Story;</l>
